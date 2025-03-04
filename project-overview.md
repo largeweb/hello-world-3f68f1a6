@@ -1,14 +1,14 @@
 # Project Overview
 
-Project Name: Hello World
+Project Name: Hello, World!
 
-Description: A basic web application that displays the text "Hello, World!" in the browser. This project serves as a simple test to verify the GenStack environment is set up correctly.
+Description: A basic web application that displays the text "Hello, World!"
 
 Features:
 
-*   Displays "Hello, World!" text.
+*   Displays "Hello, World!" on a webpage.
 
-Target Audience: Developers testing their environment.
+Target Audience: Developers learning a new framework or platform. Anyone who wants to quickly deploy a test application.
 
 Technology Stack:
 
