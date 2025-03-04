@@ -1,15 +1,15 @@
 # Project Overview
 
-Project Name: Hello World
+Project Name: Hello World App
 
-Description: A simple web application that displays the text "Hello, World!". This project serves as a basic test to ensure the development environment and deployment process are functioning correctly.
+Description: A basic web application that displays the text "Hello, World!". This project serves as a simple test and demonstration of the GenStack platform's capabilities.
 
 Features:
 
-*   Displays "Hello, World!" on a web page.
+*   Displays the text "Hello, World!" in a web browser.
 
-Target Audience: Developers who want to verify their setup or new users getting started with GenStack.
+Target Audience: Developers and users who want to quickly test and verify the GenStack platform.
 
 Technology Stack:
 
-*   Cloudflare next-on-pages framework (NextJS).
+*   Cloudflare next-on-pages framework (NextJS) for the web application.
