@@ -1,14 +1,14 @@
 # Project Overview
 
-Project Name: Hello, World!
+Project Name: Hello World Test App
 
-Description: A basic web application that displays the text "Hello, World!" on a webpage. This project serves as a simple test to verify the setup and deployment of the GenStack environment.
+Description: A simple one-page web application that displays the text "Hello, World!". This project serves as a basic test to ensure the development environment and deployment process are functioning correctly.
 
 Features:
 
-*   Displays "Hello, World!" text in a prominent location on the page.
+*   Single-page display of "Hello, World!"
 
-Target Audience: Developers and users who want to quickly test and validate the GenStack deployment process.
+Target Audience: Developers and testers needing a quick verification of their setup.
 
 Technology Stack:
 
