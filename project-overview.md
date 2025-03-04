@@ -1,14 +1,14 @@
 # Project Overview
 
-Project Name: Hello, World!
+Project Name: Hello World
 
-Description: A basic web application that displays the text "Hello, World!"
+Description: A basic web application that displays the text "Hello, World!" on a webpage. This project serves as a simple test and introduction to web development.
 
 Features:
 
-*   Displays "Hello, World!" on a webpage.
+*   Displays "Hello, World!" text.
 
-Target Audience: Developers learning a new framework or platform. Anyone who wants to quickly deploy a test application.
+Target Audience: New developers, anyone testing a development environment.
 
 Technology Stack:
 
